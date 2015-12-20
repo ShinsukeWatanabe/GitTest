@@ -9,6 +9,7 @@ public class Master {
 		// TODO 自動生成されたメソッド・スタブ
 		// masterで一部修正
 		// さらにmasterで修正したとする
+		// ここで競合するだろう（masterブランチより）
 	}
 
 }
