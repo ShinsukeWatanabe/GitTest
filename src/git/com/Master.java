@@ -10,6 +10,7 @@ public class Master {
 		// masterで一部修正
 		// さらにmasterで修正したとする
 		// ここで競合するだろう（masterブランチより）
+		// 競合発生しろ（bugfixブランチより）
 	}
 
 }
