@@ -9,6 +9,7 @@ public class BugFix {
 		// TODO 自動生成されたメソッド・スタブ
 		// バグをさらに修正
 		// 再度、pull request（競合を発生させる）
+		// 201602071642
 	}
 
 }
