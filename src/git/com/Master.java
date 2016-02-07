@@ -11,6 +11,7 @@ public class Master {
 		// さらにmasterで修正したとする
 		// ここで競合するだろう（masterブランチより）
 		// 競合発生しろ（bugfixブランチより）
+		// 201602071646 master
 	}
 
 }
