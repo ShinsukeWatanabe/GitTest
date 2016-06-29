@@ -13,6 +13,7 @@ public class BugFix {
 		// さらに修正201602071652
 // b
 // c
+// d
 	}
 
 }
